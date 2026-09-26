@@ -1,0 +1,14 @@
+baseURL = 'https://pvonom.neocities.org/'
+locale = 'en-us'
+title = 'awesometopia'
+theme = "hugo-xmin"
+
+  [params]
+  footer = "© Shin K. 2026"
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+
+[markup.goldmark.renderer]
+unsafe = true
