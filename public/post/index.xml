@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on awesometopia</title>
-		<link>http://localhost:1313/post/</link>
+		<link>https://pvonom.neocities.org/post/</link>
 		<description>Recent content in Posts on awesometopia</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,29 +10,36 @@
 		
 		
 		
-			<lastBuildDate>Sun, 27 Sep 2026 11:12:57 -0400</lastBuildDate>
+			<lastBuildDate>Mon, 28 Sep 2026 14:14:36 -0400</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://pvonom.neocities.org/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AI Cat Dog</title>
+				<link>https://pvonom.neocities.org/post/cat-dog/</link>
+				<pubDate>Mon, 28 Sep 2026 14:14:36 -0400</pubDate>
+				<guid>https://pvonom.neocities.org/post/cat-dog/</guid>
+				<description>&lt;h1 id=&#34;awesometopia&#34;&gt;&lt;a href=&#34;https://pvonom.neocities.org/&#34;&gt;AWESOMETOPIA&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;cat-dog-classifier&#34;&gt;Cat-Dog classifier&lt;/h2&gt;&#xA;&lt;p&gt;this is a cat dog classifier to review/reteach some CV skills for myself. You will be able to upload an image and a confidence vector will be spat out.&lt;/p&gt;&#xA;&lt;p&gt;NOT YET IMPLEMENTED&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Flappybird</title>
-				<link>http://localhost:1313/post/flappybird/</link>
+				<link>https://pvonom.neocities.org/post/flappybird/</link>
 				<pubDate>Sun, 27 Sep 2026 11:12:57 -0400</pubDate>
-				<guid>http://localhost:1313/post/flappybird/</guid>
-				<description>&lt;h1 id=&#34;awesometopia&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;AWESOMETOPIA&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;this is where i put the flappybird&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://pvonom.github.io/flappybird/&#34;&#xA;        width=&#34;854&#34; height=&#34;480&#34;&#xA;        style=&#34;border:0; max-width:100%;&#34;&#xA;        allowfullscreen&#xA;        allow=&#34;fullscreen; autoplay; gamepad&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;this is flappy bird&lt;/p&gt;</description>
+				<guid>https://pvonom.neocities.org/post/flappybird/</guid>
+				<description>&lt;h1 id=&#34;awesometopia&#34;&gt;&lt;a href=&#34;https://pvonom.neocities.org/&#34;&gt;AWESOMETOPIA&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;this is where i put the flappybird&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://pvonom.github.io/flappybird/&#34;&#xA;        width=&#34;854&#34; height=&#34;480&#34;&#xA;        style=&#34;border:0; max-width:100%;&#34;&#xA;        allowfullscreen&#xA;        allow=&#34;fullscreen; autoplay; gamepad&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;this is flappy bird&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Gamez</title>
-				<link>http://localhost:1313/post/gamez/</link>
+				<link>https://pvonom.neocities.org/post/gamez/</link>
 				<pubDate>Sat, 26 Sep 2026 13:17:24 -0400</pubDate>
-				<guid>http://localhost:1313/post/gamez/</guid>
-				<description>&lt;h1 id=&#34;awesometopia&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;AWESOMETOPIA&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;this is where i put the games for this very simple demo site&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://pvonom.github.io/unityslop/&#34;&#xA;        width=&#34;854&#34; height=&#34;480&#34;&#xA;        style=&#34;border:0; max-width:100%;&#34;&#xA;        allowfullscreen&#xA;        allow=&#34;fullscreen; autoplay; gamepad&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;this is a basic shooter game template with no significant modifications. I was using it to look around the Unity 3d Editor&lt;/p&gt;</description>
+				<guid>https://pvonom.neocities.org/post/gamez/</guid>
+				<description>&lt;h1 id=&#34;awesometopia&#34;&gt;&lt;a href=&#34;https://pvonom.neocities.org/&#34;&gt;AWESOMETOPIA&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;this is where i put the games for this very simple demo site&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://pvonom.github.io/unityslop/&#34;&#xA;        width=&#34;854&#34; height=&#34;480&#34;&#xA;        style=&#34;border:0; max-width:100%;&#34;&#xA;        allowfullscreen&#xA;        allow=&#34;fullscreen; autoplay; gamepad&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;this is a basic shooter game template with no significant modifications. I was using it to look around the Unity 3d Editor&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Bocchi the Rock!</title>
-				<link>http://localhost:1313/post/bocchi/</link>
+				<link>https://pvonom.neocities.org/post/bocchi/</link>
 				<pubDate>Sat, 26 Sep 2026 12:03:27 -0400</pubDate>
-				<guid>http://localhost:1313/post/bocchi/</guid>
-				<description>&lt;h1 id=&#34;awesometopia&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;AWESOMETOPIA&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;bocchi-the-rock&#34;&gt;Bocchi the Rock!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;If I could be a constellation&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bocchi the Rock! is a 2022 Comedy Music anime about a girl named Hitori Gotoh (which is a pun cuz &lt;em&gt;&amp;lsquo;hitoribocchi&amp;rsquo;&lt;/em&gt; means loner) who feels lonely and finds friends to form a band. She players the Guitar&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/bochi2.jpg&#34; alt=&#34;Season 2 Announcement&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-characters&#34;&gt;the Characters&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gotou &lt;strong&gt;(Bocchi)&lt;/strong&gt; Hitori&lt;/li&gt;&#xA;&lt;li&gt;Yamada &lt;strong&gt;Ryou&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ijichi &lt;strong&gt;Nijika&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ikuyo &lt;strong&gt;Kita&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;slider&#34;&gt;&#xA;    &lt;div class=&#34;slides&#34;&gt;&#xA;        &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/slides/bochi_slide.jpg&#34; alt =&#34;bochi&#34;&gt;&#xA;        &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/slides/kita.jpg&#34; alt =&#34;kita&#34;&gt;&#xA;        &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/slides/ryo.jpg&#34; alt = &#34;ryo&#34;&gt;&#xA;        &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/slides/nijika.jpg&#34; alt = &#34;nijika&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;button class=&#34;prev&#34; onclick=&#34;prevSlide()&#34;&gt;&amp;#10094&lt;/button&gt;&#xA;    &lt;button class=&#34;next&#34; onclick=&#34;tsugislide()&#34;&gt;&amp;#10095&lt;/button&gt;&#xA;&lt;/div&gt;</description>
+				<guid>https://pvonom.neocities.org/post/bocchi/</guid>
+				<description>&lt;h1 id=&#34;awesometopia&#34;&gt;&lt;a href=&#34;https://pvonom.neocities.org/&#34;&gt;AWESOMETOPIA&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;bocchi-the-rock&#34;&gt;Bocchi the Rock!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;If I could be a constellation&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bocchi the Rock! is a 2022 Comedy Music anime about a girl named Hitori Gotoh (which is a pun cuz &lt;em&gt;&amp;lsquo;hitoribocchi&amp;rsquo;&lt;/em&gt; means loner) who feels lonely and finds friends to form a band. She players the Guitar&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pvonom.neocities.org/bochi2.jpg&#34; alt=&#34;Season 2 Announcement&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-characters&#34;&gt;the Characters&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gotou &lt;strong&gt;(Bocchi)&lt;/strong&gt; Hitori&lt;/li&gt;&#xA;&lt;li&gt;Yamada &lt;strong&gt;Ryou&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ijichi &lt;strong&gt;Nijika&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ikuyo &lt;strong&gt;Kita&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;slider&#34;&gt;&#xA;    &lt;div class=&#34;slides&#34;&gt;&#xA;        &lt;img class=&#34;slide&#34; src=&#34;https://pvonom.neocities.org/slides/bochi_slide.jpg&#34; alt =&#34;bochi&#34;&gt;&#xA;        &lt;img class=&#34;slide&#34; src=&#34;https://pvonom.neocities.org/slides/kita.jpg&#34; alt =&#34;kita&#34;&gt;&#xA;        &lt;img class=&#34;slide&#34; src=&#34;https://pvonom.neocities.org/slides/ryo.jpg&#34; alt = &#34;ryo&#34;&gt;&#xA;        &lt;img class=&#34;slide&#34; src=&#34;https://pvonom.neocities.org/slides/nijika.jpg&#34; alt = &#34;nijika&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;button class=&#34;prev&#34; onclick=&#34;prevSlide()&#34;&gt;&amp;#10094&lt;/button&gt;&#xA;    &lt;button class=&#34;next&#34; onclick=&#34;tsugislide()&#34;&gt;&amp;#10095&lt;/button&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 	</channel>
 </rss>
